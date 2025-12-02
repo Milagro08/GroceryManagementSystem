@@ -1,0 +1,32 @@
+FoodProduct F001 BestBefore:2030-09-14
+FoodProduct F002 BestBefore:2028-08-17
+FoodProduct F003 BestBefore:2029-06-17
+FoodProduct F004 BestBefore:2028-07-13
+FoodProduct F005 BestBefore:2030-09-15
+FoodProduct F006 BestBefore:2025-09-28
+FoodProduct F007 BestBefore:2030-05-19
+FoodProduct F008 BestBefore:2025-07-22
+ElectronicsProduct E001 Voltage:220V
+ElectronicsProduct E002 Voltage:220V
+ElectronicsProduct E003 Voltage:240V
+ElectronicsProduct E004 Voltage:240V
+ElectronicsProduct E005 Voltage:110V
+ElectronicsProduct E006 Voltage:110V
+ElectronicsProduct E007 Voltage:110V
+ElectronicsProduct E008 Voltage:220V
+UtilityProduct U001 Purpose:Cleaning
+UtilityProduct U002 Purpose:Gardening
+UtilityProduct U003 Purpose:Repair
+UtilityProduct U004 Purpose:Gardening
+UtilityProduct U005 Purpose:Repair
+UtilityProduct U006 Purpose:Repair
+UtilityProduct U007 Purpose:Repair
+UtilityProduct U008 Purpose:Repair
+PharmacyProduct P001 Description:Vitamin Supplement
+PharmacyProduct P002 Description:Pain Relief
+PharmacyProduct P003 Description:Cold Medicine
+PharmacyProduct P004 Description:Pain Relief
+PharmacyProduct P005 Description:Vitamin Supplement
+PharmacyProduct P006 Description:Vitamin Supplement
+PharmacyProduct P007 Description:Vitamin Supplement
+PharmacyProduct P008 Description:Vitamin Supplement

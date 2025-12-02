@@ -1,0 +1,60 @@
+Order Code: 1
+Item: fish, Quantity: 1
+Payment Method: CASH, Total Price: 1.15
+------------------------------------------------
+Order Code: 01
+Item: Bread, Quantity: 1
+Payment Method: CASH, Total Price: 1.15
+------------------------------------------------
+Order Code: 01
+Item: Bread, Quantity: 1
+Payment Method: CASH, Total Price: 1.15
+------------------------------------------------
+Order Code: ORD001
+Item: Milk, Quantity: 2
+Payment Method: CARD, Total Price: 23.60
+------------------------------------------------
+Order Code: ORD001
+Item: Milk, Quantity: 2
+Payment Method: CARD, Total Price: 23.60
+------------------------------------------------
+Order Code: ORD001
+Item: Milk, Quantity: 2
+Payment Method: CARD, Total Price: 23.60
+------------------------------------------------
+Order Code: ORD001
+Item: Milk, Quantity: 2
+Payment Method: CARD, Total Price: 23.60
+------------------------------------------------
+Order Code: 1
+Item: Milk, Quantity: 1
+Payment Method: CASH, Total Price: 3.74
+------------------------------------------------
+Order Code: 1
+Item: Milk, Quantity: 1
+Payment Method: CASH, Total Price: 3.74
+------------------------------------------------
+Order Code: 1
+Item: Milk, Quantity: 1
+Payment Method: CASH, Total Price: 3.74
+------------------------------------------------
+Order Code: 1
+Item: Milk, Quantity: 1
+Payment Method: CASH, Total Price: 3.74
+------------------------------------------------
+Order Code: 1
+Item: Bread, Quantity: 1
+Payment Method: CASH, Total Price: 5.18
+------------------------------------------------
+Order Code: 1
+Item: Bread, Quantity: 1
+Payment Method: CASH, Total Price: 5.18
+------------------------------------------------
+Order Code: 1
+Item: Milk, Quantity: 1
+Payment Method: CARD, Total Price: 3.84
+------------------------------------------------
+Order Code: 1
+Item: Milk, Quantity: 1
+Payment Method: CARD, Total Price: 3.84
+------------------------------------------------

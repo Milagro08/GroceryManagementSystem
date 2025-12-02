@@ -1,0 +1,15 @@
+Customer Name: Jane Doe
+Card Number: 1234-5678-9012
+Card Type: Visa
+Order Code: ORD001
+------------------------------------------------
+Customer Name: Jane Doe
+Card Number: 1234-5678-9012
+Card Type: Visa
+Order Code: ORD001
+------------------------------------------------
+Customer Name: Jane Doe
+Card Number: 1234-5678-9012
+Card Type: Visa
+Order Code: 1
+------------------------------------------------
